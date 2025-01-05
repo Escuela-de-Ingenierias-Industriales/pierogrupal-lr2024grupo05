@@ -1,0 +1,14 @@
+rt_nonfinite.o: \
+ C:\Users\Manuel\MATLAB\Projects\LabRobOf\TrayectoriaObstaculos_ert_rtw\rt_nonfinite.c \
+ C:\Users\Manuel\MATLAB\Projects\LabRobOf\TrayectoriaObstaculos_ert_rtw\rtGetNaN.h \
+ C:\Users\Manuel\MATLAB\Projects\LabRobOf\TrayectoriaObstaculos_ert_rtw\rt_nonfinite.h \
+ C:\Users\Manuel\MATLAB\Projects\LabRobOf\TrayectoriaObstaculos_ert_rtw\rtwtypes.h \
+ C:\Users\Manuel\MATLAB\Projects\LabRobOf\TrayectoriaObstaculos_ert_rtw\rtGetInf.h
+
+C:\Users\Manuel\MATLAB\Projects\LabRobOf\TrayectoriaObstaculos_ert_rtw\rtGetNaN.h:
+
+C:\Users\Manuel\MATLAB\Projects\LabRobOf\TrayectoriaObstaculos_ert_rtw\rt_nonfinite.h:
+
+C:\Users\Manuel\MATLAB\Projects\LabRobOf\TrayectoriaObstaculos_ert_rtw\rtwtypes.h:
+
+C:\Users\Manuel\MATLAB\Projects\LabRobOf\TrayectoriaObstaculos_ert_rtw\rtGetInf.h:

@@ -1,0 +1,65 @@
+Sensores5_VL53L0X_VL53L1X_I2C_wrapper.o: \
+ C:\Users\Manuel\MATLAB\Projects\LabRobOf\Sensores5_VL53L0X_VL53L1X_I2C_wrapper.cpp \
+ C:/Users/Manuel/MATLAB/Projects/LabRobOf/TrayectoriaObstaculos_ert_rtw/rtwtypes.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/WCharacter.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/WString.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/HardwareSerial.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Stream.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Print.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Printable.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/USBAPI.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/variants/mega/pins_arduino.h \
+ C:/Users/Manuel/MATLAB/Projects/LabRobOf/Modelos/twi.h \
+ C:/Users/Manuel/MATLAB/Projects/LabRobOf/Modelos/twi.c \
+ C:/Users/Manuel/MATLAB/Projects/LabRobOf/Modelos/twi.h \
+ C:/Users/Manuel/MATLAB/Projects/LabRobOf/Modelos/Wire.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Stream.h \
+ C:/Users/Manuel/MATLAB/Projects/LabRobOf/Modelos/Wire.cpp \
+ C:/Users/Manuel/MATLAB/Projects/LabRobOf/Modelos/Wire.h \
+ C:/Users/Manuel/MATLAB/Projects/LabRobOf/Modelos/VL53L0X.h \
+ C:/Users/Manuel/MATLAB/Projects/LabRobOf/Modelos/VL53L0X.cpp
+
+C:/Users/Manuel/MATLAB/Projects/LabRobOf/TrayectoriaObstaculos_ert_rtw/rtwtypes.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/WCharacter.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/WString.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/HardwareSerial.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Stream.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Print.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Printable.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/USBAPI.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/variants/mega/pins_arduino.h:
+
+C:/Users/Manuel/MATLAB/Projects/LabRobOf/Modelos/twi.h:
+
+C:/Users/Manuel/MATLAB/Projects/LabRobOf/Modelos/twi.c:
+
+C:/Users/Manuel/MATLAB/Projects/LabRobOf/Modelos/twi.h:
+
+C:/Users/Manuel/MATLAB/Projects/LabRobOf/Modelos/Wire.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Stream.h:
+
+C:/Users/Manuel/MATLAB/Projects/LabRobOf/Modelos/Wire.cpp:
+
+C:/Users/Manuel/MATLAB/Projects/LabRobOf/Modelos/Wire.h:
+
+C:/Users/Manuel/MATLAB/Projects/LabRobOf/Modelos/VL53L0X.h:
+
+C:/Users/Manuel/MATLAB/Projects/LabRobOf/Modelos/VL53L0X.cpp:
